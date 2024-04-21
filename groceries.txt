@@ -1,4 +1,4 @@
-Bananas
-Oranges
-Bread
-Pizza
+butter
+git add groceries.txt
+CC
+CCC
